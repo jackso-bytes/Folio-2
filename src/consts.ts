@@ -1,8 +1,7 @@
 export const SITE = {
   URL: "https://your_site.com",
-  TITLE: "Mono Lume",
-  DESCRIPTION:
-    "A full-stack developer with a strong focus on building fast, accessible, and maintainable web applications.",
+  TITLE: "Snorlax",
+  DESCRIPTION: "A aspiring indie game dev",
   EMAIL: "hi@monolume.com",
 };
 
